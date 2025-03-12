@@ -1,0 +1,82 @@
+@import 'tailwindcss';
+:root{
+    --primary-color: #086D38;
+    --white-color: #fff;
+    --black-color: #000;
+    --text-color: #787E8B;
+    --border-color: #F5F5F5;
+    --button-color-2: #F14F66;
+    --button-color: #EE1926;
+    --text-hover-color: #01ab56;
+    --color-sub-header-link: #FECB00; 
+
+    --navbar-height: 84px;
+    --header-height: 132px;
+    --header-bottom: calc(var(--header-height) - var(--navbar-height));
+
+}
+* {
+    box-sizing: inherit;
+}
+html{
+    /* HACK */
+    font-size: 60.5%;
+    line-height: 1.6rem;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+img, picture, video, canvas, svg {
+    display: block;
+    max-width: 100%;
+}
+.container {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 1.2rem;
+    padding-left: 1.2rem;
+    max-width: 1200px;
+}
+
+@media screen and ((min-width: 240px) and (max-width: 680px)) {
+    html{
+        /* HACK */
+        font-size: 48%;
+    }
+    .container{
+        padding: 0;
+    }
+    .cart-item{
+        width: 48%;
+    }
+    .cart-card{
+        margin-right: 4px;
+    }
+    .button-category
+    {
+        padding: 0;
+        margin-left: 4px;
+        font-size: 1.2rem;
+    }
+    .category-viewer{
+        width: 48%;
+        text-align: left;
+    }
+    .category-viewer p
+    {
+        font-size: 1.4rem;
+    }
+    .category-viewer h3{
+        font-size: 1.6rem;
+    }
+    .row-viewer{
+        justify-content: start;
+    }
+    .description-product{
+        font-size: 1.4rem;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 2;
+        overflow: hidden;
+    }
+  }

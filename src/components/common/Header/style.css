@@ -1,0 +1,110 @@
+.header {
+  height: var(--header-height);
+  color: var(--text-color);
+  z-index: 9999;
+}
+
+.header-navbar {
+  height: var(--navbar-height);
+}
+.header-bottom {
+  background-color: var(--primary-color);
+  height: var(--header-bottom);
+}
+.navigation-list {
+  min-height: 4.8rem;
+}
+.font-semibold {
+  font-weight: 600;
+  line-height: 30px;
+}
+.icon-bar {
+  line-height: 30px;
+}
+.cart-img {
+  position: relative;
+}
+.cart-announcement {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  background-color: var(--button-color);
+  color: var(--white-color);
+  font-size: 1rem;
+  top: 1px;
+  left: 18px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button-hover:hover {
+  filter: brightness(1.2);
+}
+.button-hover:nth-child(2) {
+  animation: blink 1s infinite;
+}
+.button-hover:last-child svg {
+  display: inline-block;
+  animation: bounce-shake 1s infinite;
+}
+@keyframes blink {
+  0%,
+  100% {
+    box-shadow: 0 0 5px var(--button-color);
+    color: var(--black-color);
+    background-color: var(--white-color);
+  }
+  50% {
+    box-shadow: 0 0 15px var(--button-color);
+    color: var(--black-color);
+    background-color: var(--button-color);
+  }
+}
+@keyframes bounce-shake {
+  0%,
+  100% {
+    transform: scale(1) rotate(0);
+  }
+  25% {
+    transform: scale(1.1);
+  }
+  50% {
+    transform: scale(1) rotate(-10deg);
+  }
+  75% {
+    transform: scale(1) rotate(10deg);
+  }
+}
+/* Khi cuộn xuống */
+.slide-down {
+  animation: slideDown 0.5s ease-in-out forwards;
+  opacity: 1;
+}
+
+/* Khi cuộn lên, giữ nguyên */
+.visible {
+  transform: translateY(0);
+  opacity: 1;
+}
+
+@keyframes slideDown {
+  0% {
+    transform: translateY(-100%);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+/* Cố định navbar */
+.container-scroll {
+  position: fixed;
+  z-index: 9999;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: white;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: transform 0.6s ease-in-out;
+}

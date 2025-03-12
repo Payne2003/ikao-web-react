@@ -1,0 +1,22 @@
+.header-search{
+    max-width: 100%;
+    width: 100%;
+}
+.search-button{
+    right: 0;
+    height: calc(100% + 0.9rem * 2);
+    top: calc(-1* 0.9rem );
+    background-color: var(--primary-color);
+}
+.icon{
+    max-width: 20px;
+    color: white;
+}
+.search-bar form {
+    padding-right: calc(3.6rem + .8rem)
+}
+.transition-all {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(.4,0,.2,1);
+    transition-duration: .15s;
+}

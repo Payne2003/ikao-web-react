@@ -1,0 +1,188 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "https://th.bing.com/th/id/OIF.WQeDdFsYbOx7DAoyAIouog?w=179&h=180&c=7&r=0&o=5&pid=1.7",
+      "description": "Tủ rượu đẹp gỗ công nghiệp thanh lịch, sang trọng",
+      "price": 12033428
+    },
+    {
+      "id": 2,
+      "image": "https://th.bing.com/th/id/OIF.WQeDdFsYbOx7DAoyAIouog?w=179&h=180&c=7&r=0&o=5&pid=1.7",
+      "description": "Tủ rượu đẹp gỗ công nghiệp thanh lịch, sang trọng",
+      "price": 12033428
+    },
+    {
+      "id": 3,
+      "image": "https://th.bing.com/th/id/OIF.WQeDdFsYbOx7DAoyAIouog?w=179&h=180&c=7&r=0&o=5&pid=1.7",
+      "description": "Tủ rượu đẹp gỗ công nghiệp thanh lịch, sang trọng",
+      "price": 12033428
+    },
+    {
+      "id": 4,
+      "image": "https://th.bing.com/th/id/OIF.WQeDdFsYbOx7DAoyAIouog?w=179&h=180&c=7&r=0&o=5&pid=1.7",
+      "description": "Tủ rượu đẹp gỗ công nghiệp thanh lịch, sang trọng ahfoaiufnsadfhasdfjbhjklbnj",
+      "price": 12033428
+    },
+    {
+      "id": 5,
+      "image": "https://th.bing.com/th/id/OIF.WQeDdFsYbOx7DAoyAIouog?w=179&h=180&c=7&r=0&o=5&pid=1.7",
+      "description": "Tủ rượu đẹp gỗ công nghiệp thanh lịch, sang trọng",
+      "price": 12033428
+    },
+    {
+      "id": 6,
+      "image": "https://th.bing.com/th/id/OIF.WQeDdFsYbOx7DAoyAIouog?w=179&h=180&c=7&r=0&o=5&pid=1.7",
+      "description": "Tủ rượu đẹp gỗ công nghiệp thanh lịch, sang trọng",
+      "price": 12033428
+    },
+    {
+      "id": 7,
+      "image": "https://th.bing.com/th/id/OIF.WQeDdFsYbOx7DAoyAIouog?w=179&h=180&c=7&r=0&o=5&pid=1.7",
+      "description": "Tủ rượu đẹp gỗ công nghiệp thanh lịch, sang trọng",
+      "price": 12033428
+    },
+    {
+      "id": 8,
+      "image": "https://th.bing.com/th/id/OIF.WQeDdFsYbOx7DAoyAIouog?w=179&h=180&c=7&r=0&o=5&pid=1.7",
+      "description": "Tủ rượu đẹp gỗ công nghiệp thanh lịch, sang trọng",
+      "price": 12033428
+    },
+    {
+      "id": 9,
+      "image": "https://th.bing.com/th/id/OIF.WQeDdFsYbOx7DAoyAIouog?w=179&h=180&c=7&r=0&o=5&pid=1.7",
+      "description": "Tủ rượu đẹp gỗ công nghiệp thanh lịch, sang trọng",
+      "price": 12033428
+    },
+    {
+      "id": 10,
+      "image": "https://th.bing.com/th/id/OIF.WQeDdFsYbOx7DAoyAIouog?w=179&h=180&c=7&r=0&o=5&pid=1.7",
+      "description": "Tủ rượu đẹp gỗ công nghiệp thanh lịch, sang trọng",
+      "price": 12033428
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Tủ quần áo",
+      "usersViewed": [101, 102, 103]
+    },
+    {
+      "id": 2,
+      "name": "Tủ quần áo",
+      "usersViewed": [104, 105, 106]
+    },
+    {
+      "id": 3,
+      "name": "Tủ quần áo",
+      "usersViewed": [101, 107]
+    },
+    {
+      "id": 4,
+      "name": "Tủ quần áo",
+      "usersViewed": [108, 109]
+    },
+    {
+      "id": 5,
+      "name": "Tủ quần áo",
+      "usersViewed": [110, 111, 112, 113]
+    },
+    {
+      "id": 6,
+      "name": "Tủ quần áo",
+      "usersViewed": [114, 115]
+    },
+    {
+      "id": 7,
+      "name": "Tủ quần áo",
+      "usersViewed": [114, 115]
+    },
+    {
+      "id": 8,
+      "name": "Tủ quần áo",
+      "usersViewed": [114, 115]
+    },
+    {
+      "id": 9,
+      "name": "Tủ quần áo",
+      "usersViewed": [114, 115]
+    },
+    {
+      "id": 10,
+      "name": "Tủ quần áo",
+      "usersViewed": [114, 115]
+    },
+    {
+      "id": 11,
+      "name": "Tủ quần áo",
+      "usersViewed": [114, 115]
+    },
+    {
+      "id": 12,
+      "name": "Tủ quần áo",
+      "usersViewed": [114, 115]
+    },
+    {
+      "id": 13,
+      "name": "Bàn làm việc",
+      "usersViewed": [114, 115]
+    },
+    {
+      "id": 14,
+      "name": "Tủ quần áo",
+      "usersViewed": [114, 115]
+    },
+    {
+      "id": 15,
+      "name": "Tủ quần áo",
+      "usersViewed": [114, 115]
+    }
+  ],
+  "blogs": [
+    {
+      "image": ".//assets/",
+      "description": "Top 10 Living Room Furniture Trends in 2025"
+    },
+    {
+      "image": ".//assets/",
+      "description": "How to Choose the Best Sofa for Your Home"
+    },
+    {
+      "image": ".//assets/",
+      "description": "The Benefits of Wooden Furniture in Modern Homes"
+    },
+    {
+      "image": ".//assets/",
+      "description": "Office Furniture Ideas for a More Productive Workspace"
+    },
+    {
+      "image": ".//assets/",
+      "description": "Dining Room Decoration Tips You Must Try"
+    },
+    {
+      "image": ".//assets/",
+      "description": "Outdoor Furniture That Will Transform Your Garden"
+    },
+    {
+      "image": ".//assets/",
+      "description": "Storage Solutions: How to Keep Your Home Organized"
+    }
+  ],
+  "navigation": [
+    {
+      "id": 1,
+      "title": "Tất cả sản phẩm",
+      "link": "/collections/all"
+    },
+    {
+      "id": 2,
+      "title": "Tin tức sale",
+      "link": "/news"
+    },
+    {
+      "id": 3,
+      "title": "Công ty TNHH IKAO Việt Nam",
+      "link": "/stores"
+    }
+  ]
+}
